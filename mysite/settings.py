@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-f^2^-9!2-f&hy&w1y#&+wx1$=a%ob#jots7wbmj)z#$s(^yybo
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['brightspot-blog.herokuapp.com/']
+ALLOWED_HOSTS = ['brightspot-blog.herokuapp.com']
 
 
 # Application definition
